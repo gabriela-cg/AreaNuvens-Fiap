@@ -35,7 +35,7 @@ Link para acessar o protótipo no Figma: <a href="https://www.figma.com/file/5n0
 ![Imagem do WhatsApp de 2023-05-12 à(s) 21 29 30](https://github.com/gabriela-cg/AreaNuvens-Fiap/assets/111512062/fc202223-2878-430d-9fdf-699fe6412d89)
   <br>
   
- [![Netlify Status](https://api.netlify.com/api/v1/badges/6f9ec922-695a-49cb-abf6-e71aa1659599/deploy-status)](https://app.netlify.com/sites/areanasnuvens/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f9ec922-695a-49cb-abf6-e71aa1659599/deploy-status)](https://areanasnuvens.netlify.app/)
 
 
 <h2>🖥️ Tecnologias utilizadas</h2>
