@@ -10,7 +10,7 @@ Após criarmos nossa a arquitetura back-end e front-end, de modo que ela possa f
    <img src="https://github.com/gabriela-cg/AreaNuvens-Fiap/assets/111471780/a3789503-d2de-4fee-9ab6-46aae6eb9612.png" width="500px"/>
    <img src="https://github.com/gabriela-cg/AreaNuvens-Fiap/assets/111471780/57b68200-98c5-4486-b35d-aacda9611d8c.png" width="500px"/>
  <div>
-##
+#
 <h2>💡UX e recursos de acessibilidade</h2>
 A paleta de cores do projeto é composta por cores análogas, os tons são próximos, foi desenvolvida para tornar a navegação de todos os usuários acessivel. 
 Ao ser testada no simulador de daltonismo, não teve nenhuma alteração. Ao simular o contraste das cores, não houve nenhum conflito. 
@@ -23,10 +23,20 @@ Em relação a acessibilidade, tomamos os devidos cuidados para termo um HTML se
     <br>
 
 Link para acessar o protótipo no Figma: https://www.figma.com/file/5n09FMExLQvGJVskKkOcid/%C3%81rea-de-login?node-id=0%3A1&t=hGYkwbupubtx2l2A-1
+ <h2>💡Deploy</h2> 
+   <div aling="center">
+    <img src="https://github.com/gabriela-cg/AreaNuvens-Fiap/assets/111471780/b59d6b98-ab45-498d-a0d5-f927f9474b23.png" width="500px"/>
+    <br>
+    <img src="https://github.com/gabriela-cg/AreaNuvens-Fiap/assets/111471780/7e2475e6-fbbe-44c7-be13-ec3bfc9bbac6.png" width="500px"/>
+ <div>
   
 Deploy: https://api.netlify.com/api/v1/badges/6f9ec922-695a-49cb-abf6-e71aa1659599/deploy-status)](https://app.netlify.com/sites/areanasnuvens/deploys
- 
-![Imagem do WhatsApp de 2023-05-12 à(s) 21 29 30](https://github.com/gabriela-cg/AreaNuvens-Fiap/assets/111512062/fc202223-2878-430d-9fdf-699fe6412d89)
+
+  
+https://areanasnuvens.netlify.app/
+  <br>
+  
+Git com o Front: https://github.com/MarcellePalermo/TravellerJavaFront.git
 
 
 <h2>🖥️ Tecnologias utilizadas</h2>
