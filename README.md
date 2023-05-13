@@ -36,7 +36,7 @@ Deploy: https://api.netlify.com/api/v1/badges/6f9ec922-695a-49cb-abf6-e71aa16595
 https://areanasnuvens.netlify.app/
   <br>
   
-Git com o Front: https://github.com/MarcellePalermo/TravellerJavaFront.git
+Git com o Front: https://github.com/MarcellePalermo/TravellerJavaFront.git @MarcellePalermo
 
 
 <h2>🖥️ Tecnologias utilizadas</h2>
