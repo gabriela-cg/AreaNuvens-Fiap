@@ -23,6 +23,11 @@ Em relação a acessibilidade, tomamos os devidos cuidados para termo um HTML se
     <br>
 
 Link para acessar o protótipo no Figma: https://www.figma.com/file/5n09FMExLQvGJVskKkOcid/%C3%81rea-de-login?node-id=0%3A1&t=hGYkwbupubtx2l2A-1
+  
+Deploy: https://api.netlify.com/api/v1/badges/6f9ec922-695a-49cb-abf6-e71aa1659599/deploy-status)](https://app.netlify.com/sites/areanasnuvens/deploys
+ 
+![Imagem do WhatsApp de 2023-05-12 à(s) 21 29 30](https://github.com/gabriela-cg/AreaNuvens-Fiap/assets/111512062/fc202223-2878-430d-9fdf-699fe6412d89)
+
 
 <h2>🖥️ Tecnologias utilizadas</h2>
 MVC, HTML, CSS, Java, JavaScript, Figma.
